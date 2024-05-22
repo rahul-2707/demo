@@ -1,6 +1,6 @@
 <?php 
 include 'session.php';
-
+echo "Rahul";
 ?>
 
 <!doctype html>
